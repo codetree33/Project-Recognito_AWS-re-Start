@@ -1,3 +1,4 @@
+# the owner of this code is nzorro1978
 import json
 import urllib.parse
 import boto3
